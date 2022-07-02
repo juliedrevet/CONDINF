@@ -16,3 +16,11 @@ To run the analyses on model fitting results, you need to add following function
      spm_BMS.m in SPM12 (Wellcome Trust Center for Human Neuroimaging; http://www.fil.ion.ucl.ac.uk/spm)
      
      simple_mixed_anova.m (Calpette, L. (2022) https://www.mathworks.com/matlabcentral/fileexchange/64980-simple-rm-mixed-anova-for-any-design)
+    
+### This repository contains ###
+
+- 
+- Analysis, containing all Matlab and R files to replicate the analyses and figures in the paper.
+- serial-dependencies, a modification of https://bitbucket.org/mackelab/serial_decision/ that includes a modulatory interaction term in the history model.
+
+### What to do to replicate the full analyses ###
