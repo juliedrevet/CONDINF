@@ -18,7 +18,7 @@ To run the analyses, you need to add following functions to your path:
 - runner_analysis: contains all Matlab runner scripts to replicate the analyses and figures of the paper.
 - runner_fit: contains all Matlab runner scripts to replicate the model-fitting. All fits are already available in the results folder.
 - helper_plot: contains scripts to config plots. Automatically added to path in the runner_analysis scripts.
-- matlab_functions: contains all scripts used by runner scripts
+- matlab_functions: contains all scripts used by runner scripts. Automatically added to path in the runner_analysis or runner_fit scripts.
 
 ### What to do to replicate the analyses and figures from the paper ###
 - make sure you have downloaded following folders: runner_analysis, results, helper_plot
