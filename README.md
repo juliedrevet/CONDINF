@@ -28,7 +28,7 @@ To run the analyses, you need to add following functions to your path:
 - you can also run individual scripts for experiment 1 (runner_analysis_expe1.m), for experiment 2 (runner_analysis_expe2.m), for analyses based on both experiments merged (runner_analysis_expe_merged.m), or for supplementary information (runner_supplementary.m)
      
 ### What to do to replicate the model-fitting results (LONG!!) ###
-All model-fitting results are already stored in the results folder. To run them again (note that this take a lot of time):
+All model-fitting results are already stored in the results folder. To run them again (note that this takes a lot of time):
 - make sure you have downloaded following folders: data_table, matlab_functions, runner_fit
 - got to the runner_fit folder
 - For experiment 1: Run the script runner_fit_expe1.m 
