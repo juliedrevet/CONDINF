@@ -21,7 +21,7 @@ To run the analyses, you need to add following functions to your path:
 - matlab_functions: contains all scripts used by runner scripts. Automatically added to path in the runner_analysis or runner_fit scripts.
 
 ### What to do to replicate the analyses and figures from the paper ###
-- make sure you have downloaded following folders: runner_analysis, results, helper_plot
+- make sure you have downloaded following folders: runner_analysis, results, matlab_functions, helper_plot
 - go to the runner_analysis folder
 - to run ALL analyses from the paper (including supplementary): RUNNER_ANALYSIS.m
 - you can also run individual scripts for experiment 1 (runner_analysis_expe1.m), for experiment 2 (runner_analysis_expe2.m), for analyses based on both experiments merged (runner_analysis_expe_merged.m), or for supplementary information (runner_supplementary.m)
