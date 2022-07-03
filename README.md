@@ -2,6 +2,10 @@
 
 This is the overall repository that replicates all analyses from Drevet J, Drugowitsch J, Wyart V (2022) _Efficient stabilization of imprecise statistical inference through conditional belief updating_ https://www.biorxiv.org/content/10.1101/2022.06.08.495322v1
 
+Participants' behavioral data can be found on figshare:
+https://figshare.com/projects/Efficient_stabilization_of_imprecise_statistical_inference_through_conditional_belief_updating/140170
+or in the repository data_table
+
 To fit the models, you need to add following code to your path:
 - VBMC v1.0 (https://github.com/lacerbi/vbmc/)
 - BADS v1.0 (https://github.com/lacerbi/bads/)
