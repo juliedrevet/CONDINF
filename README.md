@@ -27,10 +27,14 @@ To run the analyses, you need to add following functions to your path:
 - to run ALL analyses from the paper (including supplementary): RUNNER_ANALYSIS.m
 - you can also run individual scripts:
 
-runner_analysis_expe1.m: Figures 1-4
-runner_analysis_expe2.m: Figures 5-6
-runner_analysis_expe_merged.m: Figures 7-8
-runner_supplementary.m: all Supplementary Figures
+Figures 1-4: runner_analysis_expe1.m
+
+Figures 5-6: runner_analysis_expe2.m 
+
+Figures 7-8: runner_analysis_expe_merged.m
+
+all Supplementary Figures: runner_supplementary.m
+
      
 ### What to do to replicate the model-fitting results (LONG!!) ###
 All model-fitting results are already stored in the results folder. To run them again (note that this takes a lot of time):
