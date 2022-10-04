@@ -1,6 +1,7 @@
 # CONDITIONAL BELIEF UPDATING
 
-This is the overall repository that replicates all analyses from Drevet J, Drugowitsch J, Wyart V (2022) _Efficient stabilization of imprecise statistical inference through conditional belief updating_ https://www.biorxiv.org/content/10.1101/2022.06.08.495322v1
+This is the overall repository that replicates all analyses from
+Drevet, J., Drugowitsch, J. & Wyart, V. Efficient stabilization of imprecise statistical inference through conditional belief updating. _Nat Hum Behav_ (2022). https://doi.org/10.1038/s41562-022-01445-0
 
 Participants' behavioral data can be found in the repository data_table or on figshare:
 https://figshare.com/projects/Efficient_stabilization_of_imprecise_statistical_inference_through_conditional_belief_updating/140170
